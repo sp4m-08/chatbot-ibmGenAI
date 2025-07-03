@@ -1,0 +1,16 @@
+Sample Chat Session:
+
+You: Hello, how are you?
+Bot: Hello! I'm doing well, thank you for asking. How can I help you today?
+
+You: What is machine learning?
+Bot: Machine learning is a subset of artificial intelligence that enables computers to learn and improve from experience without being explicitly programmed.
+
+You: Can you write a simple Python function?
+Bot: Sure! Here's a simple function that adds two numbers:
+
+def add_numbers(a, b):
+    return a + b
+
+You: export
+Chat history exported to 'chat_history.txt'.
