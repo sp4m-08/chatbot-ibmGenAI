@@ -1,4 +1,4 @@
-    # TinyLlama Chatbot
+### TinyLlama Chatbot
 
 A lightweight conversational AI chatbot powered by TinyLlama-1.1B-Chat-v1.0 model from Hugging Face Transformers. This chatbot supports multilingual conversations and maintains chat history throughout the session.
 
