@@ -27,7 +27,7 @@ chat_history = []
 assistant_greeting = "Hello! How can I help you today?"
 print("Bot:", assistant_greeting)
 
-for _ in range(20):  # Limit to 20 exchanges 
+for _ in range(20):  # limit to 20 exchanges 
     user_input = input("You: ").strip()
     if user_input.lower() == "quit":
         print("Chat ended.")
@@ -50,7 +50,7 @@ for _ in range(20):  # Limit to 20 exchanges
     inputs = tokenizer(prompt, return_tensors="pt")
     outputs = model.generate(
         **inputs,
-        max_new_tokens=50,
+        max_new_tokens=250,
         pad_token_id=tokenizer.eos_token_id,
         do_sample=True,
         temperature=0.7

@@ -101,6 +101,12 @@ You: quit
 Chat ended.
 ```
 
+### Output Example
+
+![alt text](<WhatsApp Image 2025-07-04 at 23.20.34_9d2f942b.jpg>)
+![alt text](<WhatsApp Image 2025-07-04 at 23.20.34_644e5edc.jpg>)
+![alt text](<WhatsApp Image 2025-07-04 at 23.20.34_89ec5f30.jpg>)
+
 ## Configuration
 
 ### Customizing System Prompt
